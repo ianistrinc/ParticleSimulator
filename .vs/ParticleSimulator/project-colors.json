@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64977609-08e7-4a43-ab0d-75feec52fe01": {
+      "ProjectGuid": "64977609-08e7-4a43-ab0d-75feec52fe01",
+      "DisplayName": "ParticleSimulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
